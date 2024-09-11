@@ -13,3 +13,5 @@ langchain-openai==0.1.23
 langchain-teddynote==0.0.28
 langchain-text-splitters==0.2.4
 langsmith==0.1.116
+PyMuPDF==1.24.10
+PyMuPDFb==1.24.10
