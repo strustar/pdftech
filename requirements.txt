@@ -17,3 +17,4 @@ PyMuPDF==1.24.10
 PyMuPDFb==1.24.10
 pydantic==2.9.0
 pydantic_core==2.23.2
+faiss-cpu==1.8.0.post1 
